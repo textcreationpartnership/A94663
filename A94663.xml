@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable the Lords and Commons assembled in Parliament, the humble petition of the Lord Major, aldermen, and commons of the City of London in Common-Councell assembled. As it was presented by the sheriffes, Common-Councell, and other citizens of the City of London, May the 9th. 1648. With the Parliaments answer thereunto, and votes upon the same. Likewise the petition of the grand jury at the assizes holden at Chelmsford for the county of Essex. And the answer thereunto. Imprimatur Gilbert Mabbot. May 9. 1648.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94663</idno>
+            <idno type="STC">Wing T1691</idno>
+            <idno type="STC">Thomason E441_13</idno>
+            <idno type="STC">ESTC R203823</idno>
+            <idno type="EEBO-CITATION">99863629</idno>
+            <idno type="PROQUEST">99863629</idno>
+            <idno type="VID">115839</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115839)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable the Lords and Commons assembled in Parliament, the humble petition of the Lord Major, aldermen, and commons of the City of London in Common-Councell assembled. As it was presented by the sheriffes, Common-Councell, and other citizens of the City of London, May the 9th. 1648. With the Parliaments answer thereunto, and votes upon the same. Likewise the petition of the grand jury at the assizes holden at Chelmsford for the county of Essex. And the answer thereunto. Imprimatur Gilbert Mabbot. May 9. 1648.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hunscot,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On the London militia and the garrisoning of the Tower.</note>
+                  <note>The Parliament's replies to the Common Council are dated 9 May 1648, those to the grand jury 4 May 1648.</note>
+                  <note>Annotation on Thomason copy: "more on [illegible] former".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Committee for the Militia --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115839:1" rendition="simple:additions"/>
+            <p>TO THE RIGHT HONOURABLE THE LORDS AND COMMONS Aſſembled in PARLIAMENT, The humble Petition of the Lord Major, Aldermen, and Commons of the City of LONDON in Common-Councell Aſſembled.</p>
+            <p>As it was preſented by the Sheriffes, Common-Councell, and other Citizens of the City of LONDON, <hi>May</hi> the 9<hi rend="sup">th</hi>. 1648.</p>
+            <p>With the Parliaments ANSWER thereunto, and VOTES upon the ſame.</p>
+            <p>Likewiſe the Petition of the Grand Jury at the Aſſizes holden at <hi>Chelmsford</hi> for the County of <hi>Eſſex.</hi> And the Anſwer thereunto.</p>
+            <floatingText type="license" xml:lang="eng" subtype="imprimatur">
+               <body>
+                  <p>Imprimatur</p>
+                  <closer>
+                     <signed>Gilbert Mabbot.</signed>
+                     <dateline>
+                        <date>May 9. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed for <hi>Joſeph Hunſcot.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:115839:2"/>
+            <pb n="1" facs="tcp:115839:2"/>
+            <head>To the right Honourable the Lords aſſembled in Parliament, The humble Petition of the Lord Major, Aldermen, and Commons of the City of LONDON in Common-Councell aſſembled.</head>
+            <opener>Sheweth,</opener>
+            <p>THat your Petitioners doe thankfully acknowledge the great favour of this honourable Houſe in the ſpeedy gree<g ref="char:EOLhyphen"/>ting their deſires expreſſed in their late petition. And upon conſideration of a Letter from the Lord Generall to the Speaker of the honourable houſe of Commons, and by them communicated to the Petitioners, They do humbly con<g ref="char:EOLhyphen"/>ceive that there is an expectation that the Parliament ſhould be guarded by the forces of the City and places adjacent. The which with all willingneſſe your Petitioners are ready to doe (according to their late undertaking) being put into a capacity to perform the ſame, by ſetling the Militia of London, and being authorized ſo to do.</p>
+            <p>That they have received intimation by a petition from divers worthy and well affected Citi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ens, that the bringing in of Bullion is much impeded, and merchantdizing greatly diverted (of which your petitioners are very ſenſible) by reaſon that your former favour afforded to the City in the nominating of the Lieutenant of the Tower hath been of late ſuſpended, and many ſouldiers therein placed unknown to the City, whereby trading is much decayed, and poor people for want of imployment in extrea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mi<g ref="char:EOLhyphen"/>ſery, &amp; the City greatly endangered by their important nece<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſities.</p>
+            <p>That your petitioners (being encouraged by many former fa<g ref="char:EOLhyphen"/>vours received from this honourable Houſe) are bold to make theſe their addreſſes, and humbly pray,</p>
+            <pb n="2" facs="tcp:115839:3"/>
+            <p>That the Lord Major, Aldermen, and Comm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns in Common-c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uncell aſſembled may by Ordinance of Parliament be authori<g ref="char:EOLhyphen"/>zed to nominate and preſent to both houſes o Parliament a Committee for the Militia of the ſaid City, as by ſeverall Ordi<g ref="char:EOLhyphen"/>nances hath been formerly granted, whereby Commanders and Souldiers may be the better united and encouraged to performe their duties for the ſafety and p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſervation of the Parliament, City and places adjacent; and that the command of the Tower of London may be put into the bands of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch a perſon as ſhall be nominated and preſented to both houſes of Parliament by the Lord Major, Aldermen and Common-councell of the ſaid city; and that the Souldiers now there remaining may be removed: which will give good ſatisfaction to the City, and remove many fears and doubts, and be an invitation and encouragement unto Merchants (both Engliſh and ſtrangers) to bring in Bullion, and an occaſion to encreaſe Merchandizing, and quicken trade, and conſequently a comfort to poore people in having imployment, for their ſubſiſtence.</p>
+            <closer>
+               <hi>And your petitioners ſhall humbly pray</hi> &amp;c.</closer>
+            <argument>
+               <p>
+                  <hi>THis Petition being preſented to the Houſe of Peers, the Speaker in the name of the houſe returned this Anſwer,</hi> That the Lords gave them mu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h thanks for their conſtant good aff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction to the Parliament and Kingdom, and returned anſwer, That they would take the particulars in the Petition into ſpeedy conſideration.</p>
+            </argument>
+         </div>
+         <div type="petition">
+            <head>
+               <hi>To the Right Honourable the Commons in Parliament aſſembled.</hi> The humble Petition of the Lord Major Aldermen and Commons of the City of London in Common Councell Aſſembled.</head>
+            <opener>Sheweth,</opener>
+            <p>That your Petitioners do thankfully acknowledge the great favour of this honorable houſe in their ſpeedy granting their deſires expreſſed in their late Petition, and in com<g ref="char:EOLhyphen"/>municating unto them the letter of his Excellency the Lord Ge<g ref="char:EOLhyphen"/>nerall, upon conſideration whereof your Petitioners do humbly
+<pb n="3" facs="tcp:115839:3"/> conceive that there is an expectation that the Parliament ſhould be guarded by the forces of the City and places adjacent, The which with all willingnes your Petitioners are ready to do (ac<g ref="char:EOLhyphen"/>cording to their la<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e und<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtaking) being put into a cap<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>city to perform the ſame by ſetling the Militia of London, and being authorized ſo to do.</p>
+            <p>That they have received in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imation by a Petition from divers worthy a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d well affected Citizens that the bringing in of Bullion i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> much imp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded, and M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rchandizing greatly diverted (of which your Petitioners are very ſenſible) by reaſon that your former favours aff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rded to the City in the nominating of the Lieutenant of the Tower hath bin of late ſuſpended, And many ſouldiers therein placed unknown to the City, whereby trading is much decayed, and poor people (for wart of imployment) in extreame miſery, and the City greatly endangered by their important ne<g ref="char:EOLhyphen"/>ceſſities.</p>
+            <p>That your petitioners being encouraged by many former fa<g ref="char:EOLhyphen"/>vours received from this honorable houſe are bould to make theſe their addreſſes, and humbly pray:</p>
+            <p>That the Lord Major Aldermen and Commons in Common Councell aſſembled may by Ordinance of Parliament be authorized to nominate and preſent to both houſes of Parlia<g ref="char:EOLhyphen"/>ment a Committee of the Militia of the ſaid City as by ſe<g ref="char:EOLhyphen"/>verall Ordinances hath bin formerly granted whereby com<g ref="char:EOLhyphen"/>manders and ſouldiers may be the better united and encou<g ref="char:EOLhyphen"/>raged to perform their duties for the ſafety and preſervation of the Parliament, City and places adjacent; And that the command of the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower of <hi>London,</hi> may be put into the hands of ſuch a perſon as ſhall be nominated and preſented to both Houſes of Parliament by the Lord Major, Aldermen, and Common Councell of the City; and that the Souldiers now there remaining may be removed, which will give good ſa<g ref="char:EOLhyphen"/>tisfaction to the City, remove many fears and doubts be an invitation and encouragement to Merchants (both Engliſh and Strangers) to bring in Bullion, an occaſion to encreaſe Merchandizing and quicken trade, And conſequently a comfort to poor people in having imployment for their ſubſiſtence.</p>
+         </div>
+         <div type="response_to_petition">
+            <pb n="4" facs="tcp:115839:4"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis 9. May, 1648.</date>
+               </dateline>
+            </opener>
+            <p>THe houſe being informed, That the Sheriffes, Common-coun<g ref="char:EOLhyphen"/>ſell, and other Citizens, and Freemen of the City of London were at the door, They were called in, and Sheriffe <hi>Bide</hi> after ſome ſhort preamble did preſent an humble Petition from the Lord Major, Aldermen and Common Councell, the repreſen<g ref="char:EOLhyphen"/>tative Body of the City of London, in all humility to this houſe.</p>
+            <p>The Petition was read, and was entituled, The humble Petition of the L. Major Aldermen, and Commons of the City of London in Common counſell aſſembled, The which, the Petitioners being withdrawn, was read.</p>
+            <q>
+               <p>Reſolved, &amp;c.<lb/> That the Lord Major, Aldermen, and Commons in Common-counſell aſſembled of the City of London, be by Ordinance of Parliament autho<g ref="char:EOLhyphen"/>rized to nominate, and preſent to both houſes of Parliament, a Committee for the Militia of London, and the Liberties thereof.</p>
+               <p>Reſolved, &amp;c.<lb/> That the Lord Major, Aldermen, and Commons in Common-councell aſſembled be authorized to nominate and preſent to both houſes for their approbation an able and ſufficient perſon for the command of the Tower of London.</p>
+               <p>Reſolved, &amp;c.<lb/> That the Souldiers now remayning in the Tower of London ſhall be removed.</p>
+               <p>Ordered, That the Citizens that ſerve for the City of London doe pre<g ref="char:EOLhyphen"/>pare, and bring in an Ordinance according to theſe Votes.</p>
+            </q>
+            <p>The Sheriffes and Citizens were againe called in, and Maſter Speaker by the command of the Houſe acquainted them, That the Houſe had read their Petition, and taken it into ſerious con<g ref="char:EOLhyphen"/>ſideration, and That by the Votes paſſed, the affection of this Houſe to the City, and the truſt they repoſed in them will ap<g ref="char:EOLhyphen"/>peare, and they doubt not but are conſident that it will be anſwe<g ref="char:EOLhyphen"/>red with Love, Truſt, and Obedience; and then acquainted them with the ſubſtance of the Votes paſſed.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="5" facs="tcp:115839:4"/>
+            <head>To the Right honourable both Houſes of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England</hi> aſſembled at <hi>Weſtminſter.</hi>
+            </head>
+            <head type="sub">The humble Petition of the Grand Jury at the Aſſizes holden at Chelmſ<g ref="char:EOLhyphen"/>ford for the county of Eſsex, the 22 of March 1647 as it was preſented to both the honourable Houſes of Parliament the 4 of May 1648. by divers thouſands of Knights, Gentlemen, and Free-holders of the ſame County.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat your Petitioners taking into their ſerious (yet ſad) conſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>derations the great diſtractions and calamities of this whole Kingdom, and being alſo very ſenſible by wofull experience of the great and many preſſures and grievances of their own particular county, and taking notice alſo with all thankfulneſſe of the ho<g ref="char:EOLhyphen"/>nourable reſolutions of this houſe, in giving encouaagement to the juſt deſires of the oppreſſed in a petitionary way (the undoub<g ref="char:EOLhyphen"/>ted right of the Subject) and the very life of their liberty it ſelfe, out of a tender fellow feeling of others, and the deep ſence of their own miſeries, have made this humble (yet neceſſary addreſſe to this honourable Houſe) conceiving both the preſent and future happineſſe of themſelves and the whole kingdom, to be con<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed in theſe their enſuing deſires.</p>
+            <p>And firſt, conſidering that it is impoſſible the ſad and direfull effects of this late war ſhould ceaſe without the principall cauſes be firſt taken away and removed. And conſidering likewiſe his Majeſties abſence from his two houſes of Parliament hath been one main cauſe of increaſing j<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alouſies, and continuing a miſun<g ref="char:EOLhyphen"/>derſtanding betwixt him and his great counſell (the originall and ſource of our unhappineſſe,) And humbly conceiving that a time<g ref="char:EOLhyphen"/>ly and ready conceſſion to his Majeſty for a perſonall Treaty with his high court of Parliament may prove the moſt effectuall and ſpeedy meanes for the removing of all ſuch miſapprehenſions and feares, which are yet the unhappy obſtacles of the peace and quiet of this our Kingdom.</p>
+            <p>Secondly, conſidering the exceſſive charges, and a moſt into<g ref="char:EOLhyphen"/>lerable burthen this county with the reſt of the Kingdom do at this preſent gro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n under, which although for a time they may poſ<g ref="char:EOLhyphen"/>ſibly beare with patience, yet if continued, will certainly and i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>evitably ruine themſelves, their families, and poſterities. And withall conſidering that the moſt hopefull means of ſetling a well
+<pb n="6" facs="tcp:115839:5"/> grounded peace and the ſureſt way of preventing <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uture troubles, conſiſts in the due ſatisfaction of all iuſt complaints and intereſts. And that this army who have faithfully diſcharged their truſt to your ſelves and Kingdom, do much complain for want of their Arrears.</p>
+            <p>We therefore your humble Petitioners d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e moſt earneſtly de<g ref="char:EOLhyphen"/>ſire that you would be pleaſed to take theſe premiſes into your grave and ſerious conſiderations, and to condeſcend to the Royall intimations of his Majeſty for a perſonall Treaty; to expedite ſuch a courſe which in your wiſdoms you ſhall think moſt meet for the ſatiſ-faction of the arrears of the Army with a disbanding of the ſame.</p>
+            <closer>
+               <hi>And your petitioners ſhall pray,</hi> &amp;c.</closer>
+         </div>
+         <div type="comment_on_disposition_of_petition">
+            <opener>
+               <dateline>
+                  <date>Die Jovis, 4 May. 1648.</date>
+               </dateline>
+            </opener>
+            <p>The Lords have commanded me to return thanks to the County of Eſſex for the good aff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions which they have expreſſed to the Parliament and Kingdom; they have likewiſe commanded me to let you know, That they will take your Petition into their ſe<g ref="char:EOLhyphen"/>rious and ſpeedy conſideration, and do aſſure you that they will not be wanting to contribute their utmoſt endeavours for the removing of the preſent preſſures and burthens, and for the com<g ref="char:EOLhyphen"/>poſing of theſe unhappy differences, ſo as the Kingdom may enjoy a ſafe and well grounded peace.</p>
+            <closer>
+               <signed>J. Brown, Cler. Parliamentoru<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</signed>
+            </closer>
+         </div>
+         <div type="comment_on_disposition_of_petition">
+            <opener>
+               <dateline>
+                  <date>Die Jovis, 4 May. 1648.</date>
+               </dateline>
+            </opener>
+            <p>The Houſe being informed that divers Gentlemen of the Coun<g ref="char:EOLhyphen"/>ty of Eſſex were at the doore; deſiring to preferre a Petition to the houſe, they were called in, and Major <hi>Stephen Smith</hi> did preſent a Petition, the which (the Petitioners being with draw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) was read.</p>
+            <p>The Petitioners were again called it, and M. Speaker by com<g ref="char:EOLhyphen"/>mand of the Houſe, upon Vote upon the Queſtion gave then this anſwer, That this houſe doth take notice of the great ſervice, and good affections of that County to the Parliament, and are very confident they will ſo continue. As to their Petition, the houſe is now in debate concerning the ſpeedy ſettlement of the Kingdom, and do not doubt but what they ſhall conclude thereupon, will give ſatisfaction to the ſaid County, and to all the well affected people of the Kingdom.</p>
+            <closer>
+               <signed>H. Elſyng, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
